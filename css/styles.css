@@ -9,8 +9,8 @@ body {
 
 header {
     position: absolute;
-    left: 600px;
-    top: 450px;    
+    left: 550px;
+    top: 250px;    
     z-index: -1;
 }
 
@@ -27,7 +27,7 @@ a {
     position: absolute;
     left: 115px;
     margin-left: 5px;
-    width: 895px;
+    width: 495px;
     margin-bottom: 50px;
 }
 
