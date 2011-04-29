@@ -12,6 +12,7 @@ header {
     left: 550px;
     top: 250px;    
     z-index: -1;
+    text-align: center;
 }
 
 header a {
