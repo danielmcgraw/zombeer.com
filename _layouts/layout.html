@@ -9,11 +9,27 @@
     <meta content="0" http-equiv="Expires"> 
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen, projection" />
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
   </head>
   <body>
     <header>
-      <img src="/images/zombeer.png" />
+      <a href="/">
+	<img src="/images/logo.png" alt="Zombeer.com" />
+      </a>
     </header>
+    <nav> 
+	<ul>
+	  <li>
+	    <a href="about.html">about</a>
+	  </li>
+	  <li>
+	    <a href="https://twitter.com/intent/user?screen_name=zombeer">twitter</a>
+	  </li>
+	  <li>
+	    <a href="http://feeds.feedburner.com/Zombeer">rss</a>
+	  </li>
+	</ul>
+    </nav>
     <section>
       {{ content }}
     </section>

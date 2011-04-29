@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cream Ale
+title: Caramel Cream Ale
 ---
 
 ## Ingredents ##
