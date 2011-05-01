@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Caramel Cream Ale
+type: Brew
 ---
 
 ## Ingredents ##
-### Malts ###
+### Grains ###
 3.5 pounds Extra Light Dry Malt Extract  
 3 pounds Weiss (Wheat) Dry Malt Extract  
 1 pound Caramel 60L  
