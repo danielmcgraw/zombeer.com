@@ -40,11 +40,13 @@ Makes 5 gallons.
 12. Pitch the yeast.
 13. Add 2 ounces of the vanilla extract.
 14. Top the primary off to just over 5 gallons.
+15. Rack to the secondary fermenter after a week
+16. Bottle when fermentation subsides, after ~1.5 weeks.
 
 ## Work Log ##
 ### Friday, April 15, 2011 ###
 18:00 - Activate smack pack of Wyeast German Ale yeast.  
-22:00 - pitch yeast into starter and let sit.  
+22:00 - Pitch yeast into starter and let sit.  
 
 ### Sat, April 16, 2011 ###
 11:50 - Put 2 gallons of water on the burner.  
@@ -68,11 +70,23 @@ Balling Point: 12.5
 11:10 - Siphoned from primary fermenter to secondary fermenter and put back into its cool dark space.
 
 Gravity: 1.020
-Percentage: 1.75%
+Percentage: 2%
 Balling Point: 5
+
+### Sat, April 07, 2011 ###
+14:00 - Primed with 1/2 cup of dextrose.
+14:05 - Bottled and stored in a cool dark place. 
+
+Gravity: 1.019
+Percentage: 1.75%
+Balling Point: 4.5 
 
 ## Results ##
 
 OG: 1.050  
 O%: 6%  
 OB: 12.5  
+
+FG: 1.019
+F%: 1.75%
+FB: 4.5
