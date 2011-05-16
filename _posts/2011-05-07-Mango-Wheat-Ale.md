@@ -53,6 +53,13 @@ Gravity: 1.052
 Percentage: 6.5%
 Balling Point: 13
 
+### Sunday, May 15, 2011 ###
+19:15 - Siphoned from primary fermenter to secondary fermenter and put back into its cool dark place.
+
+Gravity: 1.012
+Percentage: 1%
+Balling Point: 4
+
 ## Results ##
 
 OG: 1.052
