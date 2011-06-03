@@ -46,8 +46,21 @@ Gravity: 1.020
 Percentage: 2.5%
 Balling Point: 5
 
+### Thursday, June 2, 2011 ###
+22:15 - Primed with 3/4 cup of sugar.  
+22:20 - Bottled and capped and put in a cool dark place to carbonate.  
+
+Gravity: 1.020  
+Percentage: 2.5%  
+Balling Point: 5  
+
 ## Results ##
 
-OG: 
-O%: 
-OB: 
+OG: 1.066  
+O%: 8.5%  
+OB: 16  
+
+FG: 1.020  
+F%: 2.5%  
+FB: 5  
+
