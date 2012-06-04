@@ -24,11 +24,11 @@ White Labs California Ale Yeast (WLP001)
 
 ### Pre-Brew
 Create a starter  
-	* 1qt water  
-	* 0.5 cup dry malt extract  
-	* 1/2tsp yeast nutrient  
-	* Boil for 10 minutes  
-	* Cool to 70F and pitch yeast  
+	1qt water  
+	0.5 cup dry malt extract  
+	1/2tsp yeast nutrient  
+	Boil for 10 minutes  
+	Cool to 70F and pitch yeast  
 Puree watermelon and freeze  
 
 ### Mash
