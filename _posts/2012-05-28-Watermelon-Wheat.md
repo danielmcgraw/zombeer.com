@@ -4,25 +4,25 @@ title: Watermelon Wheat
 type: Brew
 ---
 
-## Ingredents ##
-### Grains ### 
+## Ingredents
+### Grains 
 6lb American 2-Row
 4lb White Wheat
 
-### Hops ###
+### Hops
 2oz US Hallertau (alpha)
 
-### Yeast ###
+### Yeast
 White Labs California Ale Yeast (WLP001)
 
-### Others ###
+### Others
 7lb Seedless Watermelon
 
-## Recipie ## 
-### Batch Size ###
+## Recipie
+### Batch Size
 5 gallons
 
-### Pre-Brew ###
+### Pre-Brew
 Create a starter
 	* 1qt water
 	* 0.5 cup dry malt extract
@@ -31,27 +31,27 @@ Create a starter
 	* Cool to 70F and pitch yeast
 Puree watermelon and freeze 
 
-### Mash ###
+### Mash
 Mash in 4 gallons at 152F for 60 minutes
 
-### Boil ###
+### Boil
 60 minute boil
 
 1oz Hallertau at 60 minutes
 1oz Hallertau at 5 minutes
 
-## Fermentation ##
-### Primary ###
+## Fermentation
+### Primary
 Racked on May 28
 Added thawed watermelon puree on June 2
 
-### Secondary ###
+### Secondary
 
 
-## Results ##
+## Results
 Kegged on 
 Original Gravity: 1.046
 Final Gravity:
 
-## Notes ##
+## Notes
 Added the watermelon as the fermentation came to a close in primary. This starts the fermentation back up.
